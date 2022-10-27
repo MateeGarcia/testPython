@@ -1,8 +1,6 @@
-import pyautogui
-import time
 from functions import *
 
-searchImage()
+#searchImage()
 
 getPositionMouse()
 
